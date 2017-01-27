@@ -1,0 +1,47 @@
+Choosing Where to Live Just Got Easier
+========================================================
+author: Daniel Hertenstein
+date: 1/27/2017
+autosize: true
+
+70% of People Pick the Wrong State to Live In
+========================================================
+
+Our internal polling of 10 people says that 70% of people wish they lived in a different state
+
+```{r, echo=FALSE, fig.width=9, fig.height=7, fig.align='center'}
+barplot(height=c(30, 70), names.arg=c('Right State', 'Wrong State'), ylab='Percent of People')
+```
+
+There's a Way to Avoid Tragedy
+========================================================
+
+Our brand new web application allows you to visually determine which states you would enjoy living in
+
+Just pick a range of temperatures you like and a range of sunniness you like, and let us do the rest
+
+We'll show you the states that will meet your needs
+
+
+Made with NOAA Data
+========================================================
+
+Our information comes directly from the NOAA National Climatic Data Center of the United States
+
+```{r}
+our_data <- read.csv('state_data.csv')
+head(our_data)
+```
+
+Click Below to Find Your Dream State
+========================================================
+
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+  <p style="font-size:120px">
+    <a href="">The Right States Await!</a>
+  </p>
+</div>
