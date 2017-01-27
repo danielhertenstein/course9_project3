@@ -51,6 +51,6 @@ Click Below to Find Your Dream State
 <br>
 <div align="center">
   <p style="font-size:120px">
-    <a href="">The Right States Await!</a>
+    <a href="https://danielhertenstein.shinyapps.io/where_to_live/">The Right States Await!</a>
   </p>
 </div>
