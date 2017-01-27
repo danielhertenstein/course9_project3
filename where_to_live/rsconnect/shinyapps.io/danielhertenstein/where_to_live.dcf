@@ -2,8 +2,8 @@ name: where_to_live
 account: danielhertenstein
 server: shinyapps.io
 appId: 153535
-bundleId: 693101
+bundleId: 693105
 url: https://danielhertenstein.shinyapps.io/where_to_live/
-when: 1485539507.28908
+when: 1485539889.55046
 asMultiple: FALSE
 asStatic: FALSE
